@@ -19,6 +19,7 @@ Current build status
 ====================
 
 [![Linux,OSX](https://img.shields.io/circleci/project/github/conda-forge/scipy-feedstock/master.svg?label=Linux,OSX)](https://circleci.com/gh/conda-forge/scipy-feedstock)
+[![linux-aarch64](https://img.shields.io/shippable/5c33c18387b5930700c3e7c7/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/scipy-feedstock)
 ![Windows disabled](https://img.shields.io/badge/Windows-disabled-lightgrey.svg)
 
 Current release info
