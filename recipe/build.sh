@@ -9,6 +9,7 @@ export OPENBLAS_NUM_THREADS=1
 export LIBRARY_PATH="${PREFIX}/lib"
 export C_INCLUDE_PATH="${PREFIX}/include"
 export CPLUS_INCLUDE_PATH="${PREFIX}/include"
+export NPY_NUM_BUILD_JOBS=20
 
 # Depending on our platform, shared libraries end with either .so or .dylib
 if [[ $(uname) == 'Darwin' ]]; then
